@@ -1,2 +1,2 @@
-# synch-asynch-muleESB
+# sync-async-muleESB
 Synchronous and Asynchronous Processing
